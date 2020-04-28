@@ -1,0 +1,46 @@
+*
+{
+    margin: 0em;
+    padding: 0em;
+}
+h1,h2
+{
+    text-align: center;
+    color: blueviolet;
+}
+.form
+{
+    background-color: blueviolet;
+}
+legend{
+    color: floralwhite;
+    text-align: center;
+}
+/* td input{
+    text-align: center;
+    color: floralwhite;
+    width: 150px;
+} */
+table {
+
+    width: 100%;
+    color: floralwhite;
+    height: 100vh;
+}
+.btn{
+    padding-left: 150px;
+
+}
+.table2
+{
+    width: 70%;
+    height: 20vh;
+}
+.div
+{
+    text-align: center;
+}
+.logo
+{
+    margin-left: 15%;
+}

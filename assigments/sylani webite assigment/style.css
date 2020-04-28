@@ -1,0 +1,155 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fdivparent
+{
+    width: 100%;
+    background-color:blue;
+    color: white;
+    height: 7vh;
+
+}
+.fdiv
+{
+    display: inline-block;
+    padding: 10px;
+    padding-left:50px;
+
+}
+.fdiv{
+    padding-left:30px;
+}
+.logo
+{
+    width:60%;
+    height: 8vh;
+}
+nav{
+    color: white;
+    font-weight: 500;
+}
+.slider
+{
+    border: 1px solid blue;
+    height: 80vh;
+    overflow: hidden;
+}
+.intro
+{
+    text-align: center;
+    font-size: 30px;
+}
+.a{
+    color: blue;
+}
+
+
+.b{
+    color:green;
+}
+.favdiv{
+    text-align: center;
+
+}
+.fav{
+    text-align: center;
+}
+.hr
+{
+    width: 10%;
+    color:blue;
+    background-color:green;
+}
+.text
+{
+    color: gray;
+}
+.cards
+{
+    background-color: blue;
+    width: 100%;
+    height: 30vh;
+    display: inline-block;
+}
+.font
+{
+    font-size: 30px;
+}
+.innerdiv
+{
+    display: inline-block;
+    width: 24%;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.sixdiv
+{
+    text-align: center;
+}
+
+.insidesixdiv
+{
+    display: inline-block;
+    border:1px solid whitesmoke;
+    background-color: white;
+    box-shadow: whitesmoke;
+    padding: 50px;
+    margin-top: 5px;
+
+}
+.ldiv
+{
+    width: 70%;
+    padding: 10px;
+    
+    
+}
+.insidesix{
+display: inline-block;
+width: 45%;
+height: 10vh;
+background-color: rgb(246, 243, 243); 
+margin: 5px 2px 0 5px;
+font-weight: bold;
+font-size: 20px;
+color: blueviolet;
+
+}
+.lcon
+{
+    float: left;
+}
+.scroll
+{
+    width: 20%;
+    border: 1px solid black;
+    float: left;
+}
+.footer{
+    background-color: rgb(75, 73, 73);
+    width: 100%;
+    padding: 25px;
+    height: 50vh;
+}
+.footerdiv
+{
+    color:white ;
+    float: left;
+    font-size: 15px;
+    width: 30%;
+    margin-top: 20px;
+}
+.aaa
+{
+    color: darkgray;
+}
+.final
+{
+    color: white;
+    background-color: rgb(39, 39, 90);
+    font-size: 12px;
+    height: 4vh;
+}
